@@ -11,7 +11,7 @@ buildscript {
       targetSdkVersion: 30,
   ]
   ext.versions = [
-      kotlin: '1.4.0',
+      kotlin: '1.4.10',
       androidx: '1.0.0',
   ]
   ext.deps = [
